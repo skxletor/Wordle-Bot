@@ -86,4 +86,4 @@ for combination in itertools.product(*slots):
 # print("Known letters:", knownLetters)
 
 input("press enter to leave")
-print('Goodbye!')
+print('bye')
