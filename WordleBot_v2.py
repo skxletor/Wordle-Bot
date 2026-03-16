@@ -87,3 +87,4 @@ for combination in itertools.product(*slots):
 
 input("press enter to leave")
 print('Goodbye!')
+#test
